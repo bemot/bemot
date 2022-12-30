@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bemot
 - 👀 I’m interested in coworking in software projects.
 - 🌱 I’m currently learning differential equations.
-- 💞️ I’m looking to collaborate on anufacturing processes optimization, usage blockchains in agriculture.
+- 💞️ I’m looking to collaborate on manufacturing processes optimization, usage blockchains in agriculture.
 - 📫 How to reach me - bemotic@gmail.com
 
 <!---
