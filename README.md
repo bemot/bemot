@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bemot
 - 👀 I’m interested in coworking in software projects.
 - 🌱 I’m currently relearning differential equations on Coursera, excuse me professor Volodymyr Stepakhno .
-- 💞️ I’m looking to collaborate on manufacturing processes optimization, usage blockchains in agriculture.
+- 💞️ I’m looking to collaborate on manufacturing processes optimization, usage blockchains in production.
 - 📫 How to reach me - bemotic@gmail.com
 
 <!---
